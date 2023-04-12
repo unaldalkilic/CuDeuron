@@ -1,6 +1,6 @@
 # CuDeuron (Alpha)
 
-CuDeuron is an neural network train framework that uses Numpy and Cupy. It has various abilities such as: normalization, standardization, 3 kind of regularization and 2 kind of optimization algorithms. CuDeuron's main purpose is to train your data with easiest and most flexible tool.
+CuDeuron is an neural network train framework that uses Numpy and Cupy (CUDA). It has various abilities such as: normalization, standardization, 3 kind of regularization and 2 kind of optimization algorithms. CuDeuron's main purpose is to train your data with easiest and most flexible tool.
 
 Note: Still in development
 
